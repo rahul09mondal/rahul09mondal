@@ -9,6 +9,7 @@ Overall 11 years of experience in the IT industry. Currently, I have been workin
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [rahul09mondal@gmail.com](mailto:rahul09mondal@gmail.com)
 * 🧠  I'm learning Python
+* 🔭 I’m currently working on Capgemini
 
 ### Skills
 
