@@ -17,7 +17,20 @@ Overall 11 years of experience in the IT industry. Currently, I have been workin
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
+PROGRAMMING LANGAUGE: - SQL, PL/SQL, T-SQL, SOQL, Python, C#
+TESTING FRAMEWORKS/LIBRARIES: - Selenium WebDriver with C#, Page Object Model (POM), BDD Framework,Git.
+TESTING: - Cloud Testing (AWS), Big Data Testing, ETL/ELT Testing, Automation Testing, Database Testing, DWH Testing, Report Testing, API Testing, End to End Testing
+DATABASE: - Oracle 11g/12c, MSSQL SERVER 2012/2014/2017, MySQL 6.3, GCP, PostgreSQL, AWS Redshift, Snowflakes
+METHODOLOGY: - Agile (Scrum, Kanban), Waterfall
 
+### Tools
+
+DEFECT MANAGEMENT TOOL: - Bugzilla, JIRA, ALM, Confluence, Azure DevOps
+ETL TOOL: - Denodo 6.0, Informatica Power Centre 8.6/9.6.0/10.1.0, Azure Data Factory, Databricks, Azure synapse Analytics, Airflow
+REPORTING TOOL: - EXCEL, POWER BI, SAP BI 7.0 & 7.3
+DOMAIN: -Retail & Telecom
+CLOUD PLATFORM: - AWS & AZURE
+DOCUMENTATION: - MS Excel, MS Word, MS PowerPoint
 
 ### Socials
 
