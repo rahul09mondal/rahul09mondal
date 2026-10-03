@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Overall 11 years of experience in the IT industry. Currently, I have been working as a Data Analyst for the past 3 years. Before this role, I worked as a Quality Analyst specializing in ETL/ELT Testing, BI Testing, DWH Testing, and Web application functional, System & API Automation Testing.
+Overall 12 years of experience in the IT industry. Currently, I have been working as a Data Analyst for the past 3 years. Before this role, I worked as a Quality Analyst specializing in ETL/ELT Testing, BI Testing, DWH Testing, and Web application functional, System & API Automation Testing.
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [rahul09mondal@gmail.com](mailto:rahul09mondal@gmail.com)
 * 🧠  I'm learning Python
-* 🔭 I’m currently working on Capgemini
+* 🔭 I’m currently working on EXL
 
 ### Skills
 
